@@ -1,5 +1,5 @@
 # Software-Design
-Course Sourse Code of 《Software Design and Development Practice I》  
+* Course Sourse Code of 《Software Design and Development Practice I》  
 Contents:  
   1. Week 3  
     1.1 Skip List  
