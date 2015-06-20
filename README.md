@@ -14,16 +14,16 @@ Contents:
     3.1 Graph  
       3.1.1 Connection Problem  
           &nbsp;3.1.1.1 Undirected Graph Biconnected Problem  
-          3.1.1.2 Directed Graph Strongly Connected Problem  
+          &nbsp;3.1.1.2 Directed Graph Strongly Connected Problem  
       3.2.1 Minimum Spinning Tree  
-        3.2.1.1 Prim  
-        3.2.1.2 Kruskal   
-        3.2.1.3 Improvedd Prim  
+        &nbsp;3.2.1.1 Prim  
+        &nbsp;3.2.1.2 Kruskal   
+        &nbsp;3.2.1.3 Improvedd Prim  
       3.3.1 Shortest Path  
-        3.3.1.1 Dijstra  
-        3.3.1.2 Floyd  
-        3.3.1.3 SPFA  
-        3.3.1.4 Topological Sorting  
+        &nbsp;3.3.1.1 Dijstra  
+        &nbsp;3.3.1.2 Floyd  
+        &nbsp;3.3.1.3 SPFA  
+        &nbsp;3.3.1.4 Topological Sorting  
     3.2 Search Structure  
       3.2.1 AVL Tree  
       3.2.2 Red Black Tree  
