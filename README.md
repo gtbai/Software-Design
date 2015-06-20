@@ -13,7 +13,7 @@ Contents:
   3. Week 12  
     3.1 Graph  
       3.1.1 Connection Problem  
-          <a>3.1.1.1 Undirected Graph Biconnected Problem</a>  
+          <a>   </a>3.1.1.1 Undirected Graph Biconnected Problem  
           3.1.1.2 Directed Graph Strongly Connected Problem  
       3.2.1 Minimum Spinning Tree  
         3.2.1.1 Prim  
