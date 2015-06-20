@@ -2,7 +2,7 @@
 Course Sourse Code of 《Software Design and Development Practice I》  
 >Contents:  
 1. Week 3  
->>  1.1 Skip List  
+  1.1 Skip List  
 >>  1.2 KMP  
 >>  1.3 Priority Queue  
 >>  1.4 Three Element Tuple  
