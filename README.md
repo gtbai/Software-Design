@@ -6,7 +6,7 @@ Course Sourse Code of 《Software Design and Development Practice I》
 >>  1.2 KMP  
 >>  1.3 Priority Queue  
 >>  1.4 Three Element Tuple  
->2. Week 5  
+<2. Week 5  
 >>  2.1 Threading Binary Tree  
 >>  2.2 Transition Between Forest and Binary Tree  
 >>  2.3 Dynamic Huffman Tree  
