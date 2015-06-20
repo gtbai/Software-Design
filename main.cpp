@@ -11,7 +11,7 @@ class Node{
     public:
         Node(int pData){
         //构造方法1，传入参数：  节点数据
-            data = pData;
+            data = pData; 
             downNode = NULL;
             nextNode = NULL;
         }
